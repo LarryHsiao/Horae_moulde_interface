@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horae-module-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/horae-module-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horae-module-interface_main.iml" filepath="$PROJECT_DIR$/.idea/modules/horae-module-interface_main.iml" group="horae-module-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horae-module-interface_test.iml" filepath="$PROJECT_DIR$/.idea/modules/horae-module-interface_test.iml" group="horae-module-interface" />
+    </modules>
+  </component>
+</project>
