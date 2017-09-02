@@ -1,6 +1,6 @@
 package com.silverhetch.horae;
 
 public interface Message {
-    int messageType();
+    String messageType();
     String content();
 }

@@ -1,6 +1,6 @@
 package com.silverhetch.horae;
 
 public interface MessageHandle {
-    int messageType();
+    String messageType();
     void onReceive(String message);
 }
